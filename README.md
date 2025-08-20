@@ -1,4 +1,4 @@
-# AutoSell-for-Oblomki-Trapki-for-funtime
+# AutoSell for Stacking items ,Funtime
 Написан на python ! Автоматически продает предметы на FUNTIME ! РАБОТАЕТ БЕЗ ИНЖЕКТОВ ! НИКАК НЕ ЗАЛЕЗАЕТ В ПРОЦЕСС ЧИТА/МАЙНКРАФТ !
 
 Легок в настройке , полностью автоматичен.
